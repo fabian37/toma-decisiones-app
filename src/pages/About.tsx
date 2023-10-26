@@ -11,7 +11,7 @@ export function About() {
         <h1 className="about__title">Presentación integrantes</h1>
         <article className="about__card">
           <div className="about__card--image">
-            <img src={mora} alt="Cristian Mora" />
+            <img src={mora} alt="foto Cristian Mora" />
           </div>
           <div className="about__card--detail">
             <h2>Cristian Mora</h2>
@@ -45,7 +45,7 @@ export function About() {
         </article>
         <article className="about__card">
           <div className="about__card--image">
-            <img src={fabian} alt="Cristian Mora" />
+            <img src={fabian} alt="foto Fabian Gomez" />
           </div>
           <div className="about__card--detail">
             <h2>Fabian Gomez</h2>
@@ -73,7 +73,7 @@ export function About() {
         </article>
         <article className="about__card">
           <div className="about__card--image">
-            <img src={jhon} alt="Cristian Mora" />
+            <img src={jhon} alt="foto Jhon Erick Hidalgo" />
           </div>
           <div className="about__card--detail">
             <h2>Jhon Erick Hidalgo</h2>
@@ -88,7 +88,7 @@ export function About() {
         </article>
         <article className="about__card">
           <div className="about__card--image">
-            <img src={manuel} alt="Cristian Mora" />
+            <img src={manuel} alt="foto Manuel Ordoñez" />
           </div>
           <div className="about__card--detail">
             <h2>Manuel Ordoñez</h2>
