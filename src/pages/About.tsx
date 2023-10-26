@@ -1,8 +1,8 @@
 export function About() {
   return (
-    <main>
-      <h1>Presentación integrantes</h1>
+    <main className="app-container">
       <section>
+        <h1>Presentación integrantes</h1>
         <article>
           <h2>Cristian Mora</h2>
           <p>
