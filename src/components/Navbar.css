@@ -2,7 +2,7 @@
   align-items: center;
   background-color: var(--nav-bg-color);
   backdrop-filter: blur(0.1em);
-  box-shadow: 0 10px 30px -10px var(--container-shadow);
+  box-shadow: var(--container-shadow);
   display: flex;
   height: 5rem;
   justify-content: space-between;
@@ -86,7 +86,7 @@
     background-color: var(--container-color);
     gap: 2em;
     z-index: 2;
-    box-shadow: 0 10px 30px -10px var(--container-shadow);
+    box-shadow: var(--container-shadow);
   }
 
   .nav__list-item {

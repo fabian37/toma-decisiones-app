@@ -6,7 +6,7 @@
   --container-color: #262626;
   --bg-color: #1b1b1b;
   --nav-bg-color: rgb(39 39 39 / 85%);
-  --container-shadow: rgb(21 21 21 / 70%);
+  --container-shadow: 0 1px 4px rgb(21 21 21 / 70%);
   --font-sans: "Poppins", sans-serif;
   --font-mono: "Fira Mono", monospace;
   --fz-xxs: 12px;
@@ -176,6 +176,16 @@ body {
 *::-webkit-scrollbar-thumb {
   background-color: var(--light-text-color);
   border-radius: 1em;
+}
+
+h2 {
+  font-size: var(--fz-xxl);
+  font-weight: 600;
+  margin: 0 0 1.5em 0;
+}
+
+p {
+  margin: 0 0 1.5em 0;
 }
 
 #root {
