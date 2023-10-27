@@ -29,8 +29,8 @@ export function Tools() {
         <h1>Próximamente...</h1>
         <p>
           Estamos trabajando arduamente para traerte algo increíble. En breve,
-          estaremos lanzando nuevas productos que te encantarán. Mantente atento
-          para conocer todas las emocionantes actualizaciones que tenemos
+          estaremos lanzando nuevas herramientas que te encantarán. Mantente
+          atento para conocer todas las emocionantes actualizaciones que tenemos
           reservadas para ti.
         </p>
       </section>
