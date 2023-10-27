@@ -69,10 +69,6 @@ p a {
   display: inline-block;
 }
 
-li {
-  list-style-type: none;
-}
-
 html {
   scroll-behavior: smooth;
 }
@@ -178,8 +174,22 @@ body {
   border-radius: 1em;
 }
 
-h2 {
+h1 {
   font-size: var(--fz-xxl);
+  font-weight: 600;
+  margin: 0 0 1.5em 0;
+  color: var(--title-color);
+}
+
+h2 {
+  color: var(--main-color);
+  font-size: var(--fz-xl);
+  font-weight: 600;
+  margin: 0 0 1.5em 0;
+}
+
+h3 {
+  font-size: var(--fz-lg);
   font-weight: 600;
   margin: 0 0 1.5em 0;
 }
@@ -189,7 +199,7 @@ p {
 }
 
 #root {
-  text-align: center;
+  text-align: justify;
 }
 
 .app-container {

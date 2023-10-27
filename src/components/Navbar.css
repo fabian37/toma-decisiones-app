@@ -87,6 +87,7 @@
     gap: 2em;
     z-index: 2;
     box-shadow: var(--container-shadow);
+    list-style: none;
   }
 
   .nav__list-item {

@@ -1,0 +1,11 @@
+.company__list {
+  list-style: circle;
+  padding-left: 1rem;
+  margin: 0 0 1.5em 0;
+}
+
+.company__title {
+  font-weight: 600;
+  margin: 0 0 1.5em 0;
+  color: var(--main-color);
+}
