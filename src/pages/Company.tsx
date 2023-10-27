@@ -4,7 +4,7 @@ export function Company() {
   return (
     <main className="app-container">
       <section>
-        <h1>Información de la empresa a analizar</h1>
+        <h1>Caso de estudio</h1>
         <h2>Historia</h2>
         <p>
           Distri Lubricantes Kar tiene su origen en el año 2020 en Pandemia por
