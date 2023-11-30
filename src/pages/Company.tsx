@@ -9,20 +9,21 @@ export function Company() {
         <p>
           Distri Lubricantes Kar tiene su origen en el año 2020 en Pandemia por
           una idea que surgió a raíz de la quiebra de la empresa en la que
-          trabajaba mi mamá Anabel Cardona Guevara la cual se dedicaba a la
-          venta de lubricantes para carros, máquinas etc. Para ese año ella
-          quedó sin trabajo y dijo que no quería trabajarle a otra persona; fue
-          ahí donde con ayuda de mi padre Diego Zamora asesor comercial de la
-          empresa Mundial de Filtros y aceites diseñaron una idea de negocio con
-          base a su largo conocimiento en el sector automotriz en lubricantes y
-          filtros para el mismo.
+          trabajaba Anabel Cardona Guevara la cual se dedicaba a la venta de
+          lubricantes para carros, máquinas, etc. Para ese año ella quedó sin
+          trabajo y manifestaba que no quería trabajarle a otra persona; fue ahí
+          donde con ayuda de Diego Zamora asesor comercial de la empresa Mundial
+          de Filtros y aceites diseñaron una idea de negocio con base a su largo
+          conocimiento en el sector automotriz en lubricantes y filtros para el
+          mismo.
         </p>
         <p>
           Por otro lado, tuvieron la oportunidad de contar con los clientes
-          antiguos de la otra empresa ya que conocían a mi mamá. Poco a poco
-          fueron buscando un sector adecuado para el puesto de su negocio y para
-          el año 2021 en el mes de febrero iniciaron su actividad económica en
-          un local que está ubicado en el BR obrero con CL 23 # 12 - 52.{" "}
+          antiguos de la otra empresa ya que conocían la calidad de trabajo de
+          Anabel. Poco a poco fueron buscando un sector adecuado para el puesto
+          de su negocio y para el año 2021 en el mes de febrero iniciaron su
+          actividad económica en un local que está ubicado en el barrio Obrero
+          con CL 23 # 12 - 52.{" "}
         </p>
         <p>
           Su actividad económica CIIU 4732 (Comercio al por menor de lubricantes
@@ -39,22 +40,22 @@ export function Company() {
           Terpel, GP, Chevron, Eni, Lubristone entre otros y filtros de alta
           calidad, esto con el objetivo de darle al motor una vida útil más
           prolongada utilizando el aceite correspondiente al tipo de motor y las
-          condiciones de este. Esta empresa se encuentra ubicada en la Ciudad de
-          Cali en la Dirección CLL 23 # 12 - 52 BRR Obrero; contamos con dos
-          trabajadores la Gerente y la asistente administrativa.
+          condiciones de este. Esta empresa se encuentra ubicada en la ciudad de
+          Cali y cuentan con dos trabajadores la gerente y la asistente
+          administrativa.
         </p>
         <h2>Misión</h2>
         <p>
           Distri Lubricantes Kar es una empresa distribuidora de lubricantes de
-          marcas como Mobil, Eni, Terpel etc. para el sector automotriz,
-          maquinarias y equipos, satisfaciendo las necesidades del mercado y
-          nuestros clientes, contando para ello con productos indicados de buena
-          calidad, fuerza de ventas idónea llevando así bienestar y desarrollo
-          sostenible a toda la comunidad.
+          marcas como Mobil, Eni, Terpel, entre otras marcas para el sector
+          automotriz, maquinarias y equipos, satisfaciendo las necesidades del
+          mercado y nuestros clientes, contando para ello con productos
+          indicados de buena calidad, fuerza de ventas idónea llevando así
+          bienestar y desarrollo sostenible a toda la comunidad.
         </p>
         <h2>Visión</h2>
         <p>
-          Para el año 2025, se líder en el mercado de lubricantes a nivel
+          Para el año 2025, ser líder en el mercado de lubricantes a nivel
           nacional como una empresa orientada a las necesidades del mercado
           siendo la opción más confiable del mantenimiento del motor;
           caracterizándonos por nuestro compromiso, excelente trabajo y pasión

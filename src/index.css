@@ -131,6 +131,11 @@ label {
   appearance: none;
 }
 
+ul,
+ol {
+  padding-inline-start: 1rem;
+}
+
 table,
 tr,
 td {

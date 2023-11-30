@@ -1,8 +1,8 @@
 import "./About.css";
-import mora from "../../public/mora.jpeg";
-import manuel from "../../public/manuel.jpeg";
-import jhon from "../../public/jhon.jpeg";
-import fabian from "../../public/fabian.jpeg";
+import mora from "../assets/mora.jpeg";
+import manuel from "../assets/manuel.jpeg";
+import jhon from "../assets/jhon.jpeg";
+import fabian from "../assets/fabian.jpeg";
 
 export function About() {
   return (
