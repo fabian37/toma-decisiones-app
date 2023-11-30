@@ -1,6 +1,13 @@
+import { Link } from "react-router-dom";
 import "./Company.css";
 
 export function Company() {
+  const handleScroll = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth",
+    });
+  };
   return (
     <main className="app-container">
       <section>
@@ -153,6 +160,13 @@ export function Company() {
           preferencias del consumidor, impulsar la innovación en la industria y
           crear desafíos competitivos.
         </p>
+        <Link
+          to="/herramientas"
+          className="hero__button"
+          onClick={handleScroll}
+        >
+          Ingresa a la Caja de Herramientas
+        </Link>
       </section>
     </main>
   );
